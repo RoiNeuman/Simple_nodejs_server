@@ -1,0 +1,13 @@
+{
+  "name": "simple_nodejs_server",
+  "version": "0.1.0",
+  "description": "simple website based on NodeJS server.",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Roi Neuman",
+  "license": "ISC",
+  "dependencies": {}
+}
